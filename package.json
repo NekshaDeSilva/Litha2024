@@ -1,0 +1,12 @@
+{
+  "name": "avrudu-litha-2023",
+  "version": "1.0.0",
+  "description": "Package v0.01",
+  "type": "module",
+  "main": "./js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NCloud inc.",
+  "license": "Apache-2.0"
+}

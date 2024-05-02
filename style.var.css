@@ -1,0 +1,142 @@
+:root{
+    --post-bg:rgb(0, 0, 0);
+    --post-color:rgb(236, 236, 236);
+    --post-border-color:rgb(236, 236, 236);
+    --post-element-inverse-colour:rgb(236, 236, 236);
+    --post-section-divider-colour:rgb(236, 236, 236);
+    --defBannerimg:url(../assests/img/banner2.png);
+    --defBannerimg_:url(../assests/img/banner2_.png);
+}
+@keyframes headerIco-game-start-fictionsl-gfradiend-fadeinOut {
+    0%{
+        fill:rgb(214, 211, 0) ;
+    }
+    35%{
+        fill: rgb(255, 34, 27);
+    }
+
+    65%{
+        fill: rgb(255, 0, 51);
+    }
+
+    100%{
+        fill: rgb(214, 211, 0);
+    }   
+}
+.footer-logo-xc{
+    width:5rem;
+    margin-left: 5%;
+
+}
+.adContext_div-googleAnylatiq-f video{
+    width: 100%;
+    border-radius: 1rem 1rem 0 0 ;
+}
+.lithaQ-advCont{
+    width: 95%;
+    height: max
+    ;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+
+}
+.lithaQ-advCont img{
+    width: 100%;
+    border-radius: 1rem;
+}
+.adSyndicateDiv_mediaOgAd{
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+
+    background-color: rgb(0, 0, 0);
+    z-index: 99;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.AdygfSyndicate_OnPageloadDiv-video{
+    width: max-content;
+
+    height: max-content;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+}
+.AdygfSyndicate_OnPageloadDiv-video video{
+    width: 100%;    max-height: 60vh;
+    border-radius: 1rem 1rem 0 0 ;
+}
+.timeOutCountDiv-TcttxXctdyckiju6rtcvd{
+    min-width:  max-content;
+    min-height: 1rem;
+    padding: 0 20% 0 20%;
+    margin-right: 20%;
+    border-radius: 1rem;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    color: rgb(255, 251, 0);
+}
+.magSpinner-header{
+    width: 90%;
+    height: max-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    fill: white;
+    padding: .7rem 0 .7rem 0;
+    border-radius: 1rem;
+    margin-top: 2rem;
+}
+.magSpinner-header-left{
+    width: 100%;
+    height: max-content;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 5%;
+    font-size: 120%;
+    font-weight: 600;
+
+}
+.magSpinner-header-right{
+    width: 100%;
+    height: max-content;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 5%;
+    
+
+}
+.magSpinner-header-right span svg{
+    min-width:  1.5em;
+    min-height: 1.5rem;
+    margin-right: 10%;
+}
+.magSpinner-header-right span{
+    width: max-content;
+    height: max-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 120%;
+
+}
+.bIUyVIURFIY6io76o7g{
+    background-color: white;
+    color: black;
+    padding: .25rem 5% .25rem 5%;
+    margin-right: 5%;
+    border-radius: 1rem;
+    width: max-content;
+    cursor: pointer;
+}
