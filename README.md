@@ -1,10 +1,13 @@
-#🌞 Avrudu Litha 2024 – The Sri Lankan Masterpiece of Cultural Celebrations
+## 🌞Avrudu Litha 2024 – The Sri Lankan Masterpiece of Cultural Celebrations
 
 ---
-#Apps on Google Play
+## Apps on Google Play
+
+<br>
+
 [![Download The App](https://shields.io/badge/Download%20App-%2324292e?style=for-the-badge&logo=google)](https://steprimo.com/android/en/app/com.tnidu.litha/)
 
-<p align="center"><img src="https://github.com/NekshaDeSilva/Litha2024/blob/main/cloudflarecetificate.png"></p>
+<p align="center"><img width="200px" src="https://github.com/NekshaDeSilva/Litha2024/blob/main/cloudflarecetificate.png"></p>
 **Avrudu Litha 2024** (also known as **LithaProject**) was a groundbreaking digital platform that reinvented Sri Lanka’s cherished Sinhala-Tamil New Year (Avurudu) festivities for the digital age. Launched on **April 11, 2024**, and active until its acquisition on **May 2, 2024**, Litha2024 quickly became a cultural phenomenon, attracting over **200,000 users** nationwide and setting a record for native social media engagement on **April 14, 2024**.
 
 Developed and hosted by **Neksha DeSilva** and the **NextackFDN** tech team, Litha2024 demonstrated the power of scalable, culturally relevant digital solutions. Its immense success led to its acquisition by a private Sri Lankan company for further development. The core model, originally created by Neksha, continues to thrive under a new brand, extending a legacy of innovation and cultural significance.
