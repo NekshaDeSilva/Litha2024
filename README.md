@@ -89,11 +89,12 @@ Developed and hosted by **Neksha DeSilva** and the **NextackFDN** tech team, Lit
 ## Screenshots
 
 <img src="https://github.com/NekshaDeSilva/Litha2024/blob/main/image.png">
+<p align="center">
 <img src="https://github.com/NekshaDeSilva/Litha2024/blob/main/unnaymed.png">
 <img src="https://github.com/NekshaDeSilva/Litha2024/blob/main/unnamyyyed.png">
 <img src="https://github.com/NekshaDeSilva/Litha2024/blob/main/unnamed.png">
 
-
+</p>
 
 ## Credits
 
